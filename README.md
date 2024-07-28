@@ -4,12 +4,9 @@ Welcome to my page! 👨🏻‍💻 I'm Santiago, Systems Engineer from 🇪🇨
 
 Stack..
 
-![kubernetes](https://img.shields.io/badge/gRPC-black?style=social&logo=trpc&color=%232596BE)
 
-![Static Badge](https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=%23326CE5&link=https%3A%2F%2Fkubernetes.io%2F)
+![Static Badge](https://img.shields.io/badge/Kubernetes-black?style=flat&logo=kubernetes&logoColor=%23FFFFFF&color=%23326CE5&link=https%3A%2F%2Fkubernetes.io%2F)
 
-
-![Static Badge](https://img.shields.io/badge/Kubernetes-black?style=flat&logo=kubernetes&logoColor=%23326CE5)
 
 
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
