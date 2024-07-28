@@ -1,6 +1,11 @@
 ## 👋🏻 Hey! Nice to see you.
 
-Welcome to my page! I'm Santiago, Systems Engineer 👨🏻‍💻 from 🇪🇨 Guayaquil, Ecuador.🔥
+Welcome to my page! I'm Santiago, Systems Engineer 👨🏻‍💻 from Guayaquil, Ecuador.🔥
+
+<p>Welcome to my page! </br> I'm Thomas, Fullstack developer from <img src="" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://www.flaticon.es/icono-gratis/aya-huma_11531005?term=ecuador&related_id=11531005" width="13"/> <b>Stockholm, Sweden</b>. </p>
+
+
+<a href="https://www.flaticon.es/iconos-gratis/ecuador" title="ecuador iconos">Ecuador iconos creados por Freepik - Flaticon</a>
 
 ![](https://komarev.com/ghpvc/?username=stgoarteaga&label=PROFILE+VIEWS&style=flat)
 
@@ -24,15 +29,6 @@ Presently, I'm focusing on... ☁
 <img src="https://img.shields.io/badge/Prometheus-black?style=flat&logo=prometheus&logoColor=%23000000&color=%23E6522C"></a><a href="https://www.jenkins.io/doc/book/" target="jenkins">
 <img src="https://img.shields.io/badge/Jenkins-black?style=flat&logo=jenkins&logoColor=%23000000&color=%23D24939"></a><a href="https://argo-cd.readthedocs.io/en/stable/" target="argo">
 <img src="https://img.shields.io/badge/ArgoCD-black?style=flat&logo=argo&logoColor=%23000000&color=%23EF7B4D"></a>
-
-<a href="" target="">
-<img src=""></a>
-
-
-
-<a href="" target="">
-<img src=""></a>
-
 
 <!--
 **stgoarteaga/stgoarteaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
