@@ -1,11 +1,11 @@
 ## 👋🏻 Hey! Nice to see you.
 
-Welcome to my page! I'm Santiago, Systems Engineer 👨🏻‍💻 from Guayaquil, Ecuador.🔥
-
-<p>Welcome to my page! </br> I'm Thomas, Fullstack developer from <img src="https://static.vecteezy.com/system/resources/thumbnails/012/177/225/small_2x/ecuador-map-city-color-of-country-flag-png.png" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://proactiveoffice.com/wp-content/uploads/2021/02/pmp-badge-1.png" width="13"/> <b>Stockholm, Sweden</b>. </p>
-
-
-<a href="https://www.flaticon.es/iconos-gratis/ecuador" title="ecuador iconos">Ecuador iconos creados por Freepik - Flaticon</a>
+<p>
+    Welcome to my page! <br>
+    I'm Santiago, Systems Engineer 👨🏻‍💻 from 
+    <img src="https://static.vecteezy.com/system/resources/thumbnails/012/177/225/small_2x/ecuador-map-city-color-of-country-flag-png.png" width="13"/> 
+    <b>Guayaquil, Ecuador. 🔥</b>
+</p>
 
 ![](https://komarev.com/ghpvc/?username=stgoarteaga&label=PROFILE+VIEWS&style=flat)
 
