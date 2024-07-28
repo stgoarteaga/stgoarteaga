@@ -2,7 +2,7 @@
 
 <p>
     Welcome to my page! <br>
-    I'm Santiago, Systems Engineer 👨🏻‍💻 from 
+    I'm Santiago, Systems Engineer from 
     <img src="https://static.vecteezy.com/system/resources/thumbnails/012/177/225/small_2x/ecuador-map-city-color-of-country-flag-png.png" width="13"/> 
     <b>Guayaquil, Ecuador. 🔥</b>
 </p>
@@ -28,7 +28,9 @@ Presently, I'm focusing on... ☁
 <img src="https://img.shields.io/badge/Ansible-black?style=flat&logo=ansible&logoColor=%23000000&color=%23EE0000"></a><a href="https://prometheus.io/docs/introduction/overview/" target="prometheus">
 <img src="https://img.shields.io/badge/Prometheus-black?style=flat&logo=prometheus&logoColor=%23000000&color=%23E6522C"></a><a href="https://www.jenkins.io/doc/book/" target="jenkins">
 <img src="https://img.shields.io/badge/Jenkins-black?style=flat&logo=jenkins&logoColor=%23000000&color=%23D24939"></a><a href="https://argo-cd.readthedocs.io/en/stable/" target="argo">
-<img src="https://img.shields.io/badge/ArgoCD-black?style=flat&logo=argo&logoColor=%23000000&color=%23EF7B4D"></a>
+<img src="https://img.shields.io/badge/ArgoCD-black?style=flat&logo=argo&logoColor=%23000000&color=%23EF7B4D"></a><a href="https://docs.github.com/en/actions" target="githubactions">
+<img src="https://img.shields.io/badge/Github%20Actions-black?style=flat&logo=githubactions&logoColor=%23000000&color=%232088FF"></a><a href="https://circleci.com/docs/" target="circleci">
+<img src="https://img.shields.io/badge/CircleCI-black?style=flat&logo=circleci&logoColor=%23000000&color=%23343434"></a>
 
 <!--
 **stgoarteaga/stgoarteaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
