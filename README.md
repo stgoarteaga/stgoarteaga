@@ -2,7 +2,7 @@
 
 Welcome to my page! I'm Santiago, Systems Engineer 👨🏻‍💻 from Guayaquil, Ecuador.🔥
 
-<p>Welcome to my page! </br> I'm Thomas, Fullstack developer from <img src="" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://www.flaticon.es/icono-gratis/aya-huma_11531005?term=ecuador&related_id=11531005" width="13"/> <b>Stockholm, Sweden</b>. </p>
+<p>Welcome to my page! </br> I'm Thomas, Fullstack developer from <img src="https://static.vecteezy.com/system/resources/thumbnails/012/177/225/small_2x/ecuador-map-city-color-of-country-flag-png.png" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://www.flaticon.es/icono-gratis/aya-huma_11531005?term=ecuador&related_id=11531005" width="13"/> <b>Stockholm, Sweden</b>. </p>
 
 
 <a href="https://www.flaticon.es/iconos-gratis/ecuador" title="ecuador iconos">Ecuador iconos creados por Freepik - Flaticon</a>
