@@ -1,9 +1,10 @@
 ## 👋🏻 Hey! Nice to see you.
 
 Welcome to my page! I'm Santiago, Systems Engineer 👨🏻‍💻 from 🇪🇨 Guayaquil, Ecuador.🔥
-![](https://komarev.com/ghpvc/?username=stgoarteaga&label=PROFILE+VIEWS)
 
-Stack..
+![](https://komarev.com/ghpvc/?username=stgoarteaga&label=PROFILE+VIEWS&style=flat)
+
+Presently, I'm focusing on... ☁
 
 <a href="https://kubernetes.io/" target="kuber">
 <img src="https://img.shields.io/badge/Kubernetes-black?style=flat&logo=kubernetes&logoColor=%23000000&color=%23326CE5&"></a>
