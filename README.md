@@ -7,6 +7,10 @@
     <b>Guayaquil, Ecuador. 🔥</b>
 </p>
 
+<p>
+I’m currently learning DevOps & Cloud.
+</p>
+
 ![](https://komarev.com/ghpvc/?username=stgoarteaga&label=PROFILE+VIEWS&style=flat)
 
 Presently, I'm focusing on... ☁
